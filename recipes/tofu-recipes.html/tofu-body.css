@@ -1,0 +1,36 @@
+body
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+div
+{
+    background-color: rgb(184, 184, 209);background-size: cover;
+}
+#tit
+{
+    text-align: center; font-family: Georgia, 'Times New Roman', Times, serif; 
+    text-decoration: underline;color: antiquewhite;
+}
+img
+{
+    padding-left:40%; padding-top:5%;
+
+}
+.h3
+{
+    padding-left:2%; text-decoration: underline;
+}
+.third-para,.ing-tit,.steps-tit
+{
+    padding-left: 2%;
+}
+.ing-tit,.steps-tit
+{
+    text-decoration: underline;
+}
+.no-1,.no-2,.no-3         
+{
+    text-align:start; 
+    margin-bottom:1%;
+}
