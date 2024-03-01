@@ -9,11 +9,11 @@ div
 #tit
 {
     text-align: center; font-family: Georgia, 'Times New Roman', Times, serif; 
-    text-decoration: underline;color: antiquewhite;
+    text-decoration: underline;color: antiquewhite;padding-top: 50px;
 }
 img
 {
-    padding-left:40%; padding-top:5%;
+    margin-left:40%; margin-top:5%; border-radius: 365px;width: 300px;height: 280px;
 
 }
 .h3
@@ -28,8 +28,20 @@ img
 {
     text-decoration: underline;
 }
-.no-1,.no-2,.no-3,.no-4,.no-5         
+.no-1,.no-2,.no-3,.no-4,.no-5,.no-6     
 {
-    text-align:start; 
+    
     margin-bottom:1%;
+}
+.ul
+{
+    margin-bottom: 5px;
+}
+.block
+{
+    display: block; margin-top:5px;
+}
+.block2
+{
+    display: block;margin-top: 5px;
 }
