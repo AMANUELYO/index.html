@@ -13,8 +13,7 @@ div
 }
 img
 {
-    padding-left:42%; padding-top:5%;
-
+margin-left:40%;margin-top: 5%; width: 300px; height: 225px; border-radius: 15px;
 }
 .h3
 {
@@ -32,4 +31,7 @@ img
 {
     text-align:start; 
     margin-bottom:1%;
+
 }
+.ul1,.ul2,.ul3,.ul4,.ul5,.ul6,.ul7,.ul8,.ul9,.ul10{margin-bottom: 5px;}
+.block{display: flex; margin-top:5px ;}
