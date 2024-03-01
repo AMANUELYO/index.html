@@ -1,7 +1,27 @@
-.a1,.a2,.a3{text-decoration: solid ;color: peachpuff;}
-button{background-color:teal; border: 77px;font-size: 20px;border-radius: 15px;}
-  .a{margin-left:26%;}
-  div{text-align: center;} 
+.a1,.a2,.a3
+{
+  text-decoration: solid ;color: peachpuff;
+}
+button
+{
+  background-color:teal; border: 77px;border-radius: 15px;padding:10px;font-size:14px;
+}
+  .a
+  {
+    margin-left:28%; margin-right: 20px;
+  } 
+  .b
+  {
+    margin-right: 20px;
+  }
+  .a,.b,.c
+  {
+    margin-top: 200px;
+  }
+  div
+  {
+    text-align: center;
+  } 
 
   
   
