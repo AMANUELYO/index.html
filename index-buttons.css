@@ -1,6 +1,6 @@
 .a1,.a2,.a3
 {
-  text-decoration: solid ;color: peachpuff;
+  text-decoration: solid ;color: rgb(29, 18, 18);
 }
 button
 {
@@ -16,12 +16,14 @@ button
   }
   .a,.b,.c
   {
-    margin-top: 200px;
+    margin-top: 200px;text-align: center;
   }
   div
   {
     text-align: center;
   } 
+  button:hover{background-color: aliceblue; color:rgb(29, 18, 18);transition: 0.5s;}
+  .c{padding-right:70px;}
 
   
   
