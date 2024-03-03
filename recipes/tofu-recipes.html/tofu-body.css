@@ -14,7 +14,7 @@ div
 }
 img
 {
- margin-left: 38%; margin-top:5%;border-radius:300px;width: 320px;height:290px;
+ margin-left:auto;margin-right:auto;display:block; margin-top:5%;border-radius:300px;width: 320px;height:290px;
 
 }
 .h3
